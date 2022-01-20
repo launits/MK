@@ -7,7 +7,7 @@ Welcome to my cv!
 =====================================
 **Name**	Michail Kozinsky
 
-**Address**	Saints-Petersburg
+**Address**	Saints-Petersburg, Russia
 
 **Phone number**	+7-911-916-##-##
 
