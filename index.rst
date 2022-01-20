@@ -14,7 +14,7 @@ Welcome to my cv!
 **Date of birth**	##.##.##.####
 
 **Email**	michailkozinsky@gmail.com
-
+**Shiny** commit this note.
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
